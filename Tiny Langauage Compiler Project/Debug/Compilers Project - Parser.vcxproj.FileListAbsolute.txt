@@ -1,0 +1,3 @@
+E:\FOEASU\4th Computer\First term\Compilers\project\Parser\Compilers Project - Parser\Compilers Project - Parser\Debug\Compilers Project - Parser.vcxproj.AssemblyReference.cache
+E:\FOEASU\4th Computer\First term\Compilers\project\Parser\Compilers Project - Parser\Compilers Project - Parser\Debug\CompilersProjectParser.DrawForm.resources
+E:\FOEASU\4th Computer\First term\Compilers\project\Parser\Compilers Project - Parser\Compilers Project - Parser\Debug\Compilers Project - Parser.vcxproj.GenerateResource.cache

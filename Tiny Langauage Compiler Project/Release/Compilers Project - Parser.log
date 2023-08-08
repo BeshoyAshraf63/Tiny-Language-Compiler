@@ -1,0 +1,6 @@
+﻿  MainForm.cpp
+E:\FOEASU\4th Computer\First term\Compilers\project\Parser\Compilers Project - Parser\Compilers Project - Parser\MainForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\FOEASU\4th Computer\First term\Compilers\project\Parser\Compilers Project - Parser\Compilers Project - Parser\MainForm.cpp(69,131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\FOEASU\4th Computer\First term\Compilers\project\Parser\Compilers Project - Parser\Compilers Project - Parser\MainForm.cpp(69,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Compilers Project - Parser.vcxproj -> E:\FOEASU\4th Computer\First term\Compilers\project\Parser\Compilers Project - Parser\Release\Compilers Project - Parser.exe
